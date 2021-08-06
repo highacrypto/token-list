@@ -11652,9 +11652,9 @@
       "chainId": 101,
       "address": "9gvuSQaXrDBY7SDEf4DjiXsd3BzAvMfbQmRGCUKLLmfp",
       "symbol": "SUSD",
-      "name": "salvador USD",
+      "name": "Salvador USD",
       "decimals": 8,
-      "logoURI": "https://avatars.githubusercontent.com/u/88494986?s=400&u=b7c7f3edae26ac31322f4ad458d6ceb0f1fb9a45&v=4",
+      "logoURI": "https://raw.githubusercontent.com/highacrypto/token-list/a037110b98cbd6ff35e366e63456bfb750646ab0/assets/mainnet/salvador.jpg",
       "tags": [
         "stablecoin"
       ],
@@ -11662,3 +11662,4 @@
         "twitter": "https://twitter.com/SalvadorUsd?s=09"
         "telegram": "https://t.me/salvadousd"
       }
+}
